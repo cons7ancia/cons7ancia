@@ -1,5 +1,6 @@
 ## HOLA, Soy Constanza Dominguez 👋
-Soy analista de datos
+Soy analista de datos,
+con habilidades destacadas en lenguaje Pyhton con sus diversas librerias y en recopilacion y almacenamiento de datos con SQL
 
 <!--
 **cons7ancia/cons7ancia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
